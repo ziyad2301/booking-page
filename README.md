@@ -13,5 +13,5 @@
 <img src="./assets/reviews page 1.png/"  alt="">
 <h2 align="center">Register and Login page</h2>
 <p>A registration and login page has been developed with the implementation of authentication.</p>
-<img src="./assets/login page.png/"  alt="">
 <img src="./assets/register page.png/"  alt="">
+<img src="./assets/login page.png/"  alt="">
